@@ -1,10 +1,3 @@
-//
-//  GameScene.swift
-//  FlappyFlyBird
-//
-//  Created by Astemir Eleev on 02/05/2018.
-//  Copyright © 2018 Astemir Eleev. All rights reserved.
-//
 
 import SpriteKit
 import GameplayKit
